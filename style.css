@@ -201,7 +201,7 @@ font-weight: 900;
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    background: linear-gradient(rgba(165, 51, 98, 0.7), rgba(17, 14, 164, 0.7)), url(/img/img25.jpg);
+    background: linear-gradient(rgba(165, 51, 98, 0.7), rgba(17, 14, 164, 0.7)), url(./img/img25.jpg);
     object-fit:contain;
     background-repeat: no-repeat;
     background-size: cover;
